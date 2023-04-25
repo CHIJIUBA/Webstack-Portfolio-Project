@@ -15,16 +15,11 @@ The system was designed using the OOAD methodology and implemented using VScode 
 > E-commerce application can use it to collect and make payments
 > Users can buy and pay for utilities like airtime, electricity bills.
 
-# Learning Objective
-Projectwise:
-> Develop a system that will convert PDF text file for easy assimilation and comprehension.
-> To design a system that easily detects a PDF and convert to audio for general use.
-> To help convert text material in your native tongue for easy comprehension of material.
-
 # Software Learning Curve:
-Learn how to use the PHP (models.py(how to create your database), views.py(logic building and routing), urls.py(how to route), forms.py(how to accept information for your database), templating(how to enrich with bootstrap) and libraries (PyPDF2 and Django-Gtts)
-How to connection and use MySQL in django
-How to create a dockerfile for deployment
+> Learn how to use the PHP 
+> How to connect and use MySQL in PHP
+> How to make use of APIs (flutterwave APIs)
+> Managing user authentication and session 
 
 
 # System Requirement
