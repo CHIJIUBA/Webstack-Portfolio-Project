@@ -45,7 +45,7 @@ if(isset($_SESSION['company'])&&isset($_SESSION['meterno'])){
 
     //set the headers from the end point
     curl_setopt($ch, CURLOPT_HTTPHEADER, array(
-        "Authorization: Bearer FLWSECK-69a8ba3b64e26e713be210d81c1bd119-X",
+        "Authorization: Bearer FLWSECK_TEST-0b61a1c8eb47bc13fe2859784edf1417-X",
         "Content-Type: Application/json",
         "Cache-Control: no-cache"
     ));

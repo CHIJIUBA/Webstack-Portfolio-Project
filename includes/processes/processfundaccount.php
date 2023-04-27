@@ -93,7 +93,7 @@ if(isset($_GET['amount'])&&isset($_GET['remark'])){
 
         //set the headers from endpoint
         curl_setopt($ch, CURLOPT_HTTPHEADER, array(
-            "Authorization: Bearer FLWSECK-69a8ba3b64e26e713be210d81c1bd119-X",
+            "Authorization: Bearer FLWSECK_TEST-0b61a1c8eb47bc13fe2859784edf1417-X",
             "Content-Type: Application/json",
             "Cache-Control: no-cache"
         ));
