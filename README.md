@@ -33,5 +33,6 @@ Window 7 OS or higher
 VS Code/Git bash/Ubuntu
 PHP 
 MySQL
+JavaScript
 HTML & CSS
 Bootstrap
